@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+/*evita q se decore el texto de toda la pag*/
+a{
+    text-decoration: none;
+}
+/* tener cuidado con lo que va acá hay q tener diferenciadas las clases, id,etc*/
