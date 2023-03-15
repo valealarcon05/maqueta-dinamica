@@ -1,0 +1,15 @@
+.bg-body-tertiary{
+    background-color: rgb(178, 178, 186);
+}
+.btn-outline-success{
+    color: rgb(116, 116, 239);
+    border-color: rgb(116, 116, 239);
+}
+#logoarg{
+    width: 50%;
+}
+#bienvenido{
+    text-align: center;
+    vertical-align: auto;
+    animation: alternate;
+}
